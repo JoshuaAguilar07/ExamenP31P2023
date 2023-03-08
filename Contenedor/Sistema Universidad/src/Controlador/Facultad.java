@@ -7,7 +7,7 @@ public class Facultad {
     private String nombre_facultad = "";
     private String estado_facultad = "";
 
-    /**
+    /**Cog
      * @return the codigo_facultad
      */
     public String getCodigo_facultad() {
