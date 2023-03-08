@@ -14,7 +14,7 @@ public class Facultad {
         return codigo_facultad;
     }
 
-    /**
+    /**cog
      * @param codigo_facultad the codigo_facultad to set
      */
     public void setCodigo_facultad(String codigo_facultad) {
